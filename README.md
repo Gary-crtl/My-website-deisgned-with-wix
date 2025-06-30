@@ -1,4 +1,4 @@
-# My-Gym-website-deisgned-with-wix
+# My-Gym-website-designed-with-wix
 I developed a demo website for my gym trainer called The Ultimate Gym, located in Eldoret, Kenya. 
 The website includes the following pages: Home, Pricing, and Classes.
 
